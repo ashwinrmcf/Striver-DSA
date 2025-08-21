@@ -40,15 +40,6 @@ Space Complexity
 
 Code Implementation
 
-Example:
-
-python
-"""
-Problem: Two Sum
-Approach: Hash Map
-Time Complexity: O(n)
-Space Complexity: O(n)
-"""
 🚀 How to Use This Repository
 Navigate to the specific topic folder
 
