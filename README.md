@@ -23,47 +23,6 @@ Striver-DSA
 ├── Greedy/
 ├── Tries/
 └── README.md
-🎯 Progress Tracker
-Step 1: Learn the Basics
- Step 1.1: Get started
-
- Step 1.2: Build-up Logical Thinking
-
- Step 1.3: Learn STL/Collections
-
- Step 1.4: Know Basic Maths
-
- Step 1.5: Learn Basic Recursion
-
- Step 1.6: Learn Basic Hashing
-
-Step 2: Learn Important Sorting Techniques
- Step 2.1: Sorting-I
-
- Step 2.2: Sorting-II
-
-Step 3: Solve Problems on Arrays
- Step 3.1: Easy
-
- Step 3.2: Medium
-
- Step 3.3: Hard
-
-Step 4: Binary Search
- Step 4.1: 1D Arrays
-
- Step 4.2: 2D Arrays
-
- Step 4.3: Find answers
-
-Step 5: Strings
- Step 5.1: Basic and Easy String Problems
-
- Step 5.2: Medium String Problems
-
- Step 5.3: Hard String Problems
-
-[Continue with remaining steps...]
 
 💻 Languages Used
 Primary: C++ 
