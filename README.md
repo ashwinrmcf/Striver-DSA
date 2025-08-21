@@ -1,0 +1,162 @@
+🚀 Striver's DSA Sheet Solutions
+This repository contains my solutions to the comprehensive Striver's DSA Sheet - a curated list of Data Structures and Algorithms problems designed for coding interview preparation.
+
+📖 About Striver's DSA Sheet
+Striver's DSA Sheet, created by Raj Vikramaditya (Striver), is one of the most popular and well-structured collections of coding problems. It covers all essential topics required for technical interviews at top tech companies like Google, Amazon, Microsoft, and more.
+
+🔗 Original Sheet: Striver's A2Z DSA Course/Sheet
+
+📁 Repository Structure
+Striver-DSA
+├── Arrays/
+├── LinkedList/
+├── BinaryTrees/
+├── BinarySearchTrees/
+├── Stacks&Queues/
+├── Heaps/
+├── Graphs/
+├── DynamicProgramming/
+├── Recursion/
+├── Sorting/
+├── BinarySearch/
+├── SlidingWindow&TwoPointer/
+├── Greedy/
+├── Tries/
+└── README.md
+🎯 Progress Tracker
+Step 1: Learn the Basics
+ Step 1.1: Get started
+
+ Step 1.2: Build-up Logical Thinking
+
+ Step 1.3: Learn STL/Collections
+
+ Step 1.4: Know Basic Maths
+
+ Step 1.5: Learn Basic Recursion
+
+ Step 1.6: Learn Basic Hashing
+
+Step 2: Learn Important Sorting Techniques
+ Step 2.1: Sorting-I
+
+ Step 2.2: Sorting-II
+
+Step 3: Solve Problems on Arrays
+ Step 3.1: Easy
+
+ Step 3.2: Medium
+
+ Step 3.3: Hard
+
+Step 4: Binary Search
+ Step 4.1: 1D Arrays
+
+ Step 4.2: 2D Arrays
+
+ Step 4.3: Find answers
+
+Step 5: Strings
+ Step 5.1: Basic and Easy String Problems
+
+ Step 5.2: Medium String Problems
+
+ Step 5.3: Hard String Problems
+
+[Continue with remaining steps...]
+
+💻 Languages Used
+Primary: C++ 
+
+📝 Solution Format
+Each solution includes:
+
+Problem Statement (brief description or link)
+
+Approach (algorithm/strategy used)
+
+Time Complexity
+
+Space Complexity
+
+Code Implementation
+
+Example:
+
+python
+"""
+Problem: Two Sum
+Approach: Hash Map
+Time Complexity: O(n)
+Space Complexity: O(n)
+"""
+🚀 How to Use This Repository
+Navigate to the specific topic folder
+
+Find the problem you're looking for
+
+Review the solution and approach
+
+Practice implementing it yourself first
+
+Compare with the provided solution
+
+📊 Statistics
+Total Problems: 455+ problems
+
+Problems Solved: 2
+
+Completion Percentage: 0.44%
+
+Current Focus: Arrays
+
+🛠️ Setup and Running
+bash
+# Clone the repository
+git clone https://github.com/Striver-DSA.git
+
+# Navigate to specific problem
+cd Striver-DSA/Arrays/
+
+# Run solution (example for Python)
+python two_sum.py
+🤝 Contributing
+While this is my personal learning journey, suggestions and optimizations are welcome!
+
+Fork the repository
+
+Create a feature branch
+
+Make your changes
+
+Submit a pull request
+
+📞 Connect With Me
+LinkedIn: www.linkedin.com/in/ashwin-soni-885992196
+
+GitHub: ashwinrmcf
+
+Email: ashwinrmcf@gmail.com
+
+🙏 Acknowledgments
+Striver (Raj Vikramaditya) for creating this amazing DSA sheet
+
+TakeUForward platform for the comprehensive course material
+
+The coding community for continuous support and inspiration
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🎖️ Motivation
+"The expert in anything was once a beginner who refused to give up."
+
+This repository documents my journey through one of the most comprehensive DSA learning paths available. Each solution represents hours of learning, debugging, and growth.
+
+⭐ Star this repository if you find it helpful!
+
+📢 Share with fellow coders who are preparing for technical interviews!
+
+Last Updated: August 22, 2025
+Problems Solved: 2
+Current Streak: 1
